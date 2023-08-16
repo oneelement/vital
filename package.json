@@ -5,6 +5,10 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "echo Hello World!"
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^5.1.6"
   }
 }
