@@ -1,0 +1,10 @@
+{
+  "name": "vital-frontend-task",
+  "version": "0.0.1",
+  "description": "base project for vital frontend task",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "echo Hello World!"
+  }
+}
