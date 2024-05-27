@@ -47,3 +47,7 @@ Build the image:
 To run this project:
 
 `docker run --rm -p 8000:8000 vital`
+
+## For ease of sharing and viewing I have also deployed this project to vercel which can be viewed at the link below
+
+[https://vital-liard.vercel.app](https://vital-liard.vercel.app)
