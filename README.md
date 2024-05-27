@@ -20,9 +20,11 @@ I have added some tests to the SelectMenu, MultiSelect, Panels and Panel compone
 ## In response to your question about feedback on the api/docs:
 
 The lab and biomarker api responses are different, I assume due to dataset size.  It would be easier to work with on the frontend if both had a similar response structure:
+
+i.e. 
 ```json
-i.e. {
-  data: [], // instead of markers
+{
+  data: [],
   page: 1,
   pages: 2,
   size: 50,
