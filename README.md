@@ -28,6 +28,7 @@ i.e. {
   size: 50,
   total: 50
 }
+```
 
 I would use 'limit' instead of 'size' but that is a personal preference and I would use 'offset' instead of 'pages' as I think it is more flexible as it allows for different perPage values.  
 
